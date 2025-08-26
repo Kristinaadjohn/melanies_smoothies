@@ -1,9 +1,3 @@
-name: my_sis_app_env
-channels:
-  - snowflake
-  - conda-forge
-dependencies:
-  - streamlit
-  - snowflake-snowpark-python
-  - pandas
-  - matplotlib
+# requirements.txt
+snowflake-snowpark-python
+streamlit
